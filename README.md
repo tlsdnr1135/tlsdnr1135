@@ -1,3 +1,7 @@
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&height=250&fontAlignY=45&text=Hi👋&nbsp;I'm&nbsp;shinwook&color=CCFFFF" />
+</div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlsdnr1135&show_icons=true&theme=radical)  
 
 ## 🧱 Tech stacks
