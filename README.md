@@ -35,9 +35,6 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 </div>
 
-- - -
-
-<h2 align="center">✨ Stats ✨</h2>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=125&color=CCFFCC" />
