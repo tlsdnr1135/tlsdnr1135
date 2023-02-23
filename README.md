@@ -40,9 +40,5 @@
 <h2 align="center">✨ Stats ✨</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=yujinyny&theme=dark" />
-</div>
-
-<div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=125&color=CCFFCC" />
 </div>
